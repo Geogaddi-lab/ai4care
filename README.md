@@ -1,4 +1,4 @@
-# Solid
+# AI4CARE
 
 A landing page template.
 
